@@ -31,7 +31,7 @@
         </li>
         <li class="nav-item">
           <a class="nav-link" href="contato.php">Contato</a>
-        </li>
+        </li> 
         <li class="nav-item">
           <a class="nav-link" href="localizaco.php">Localização</a>
         </li>
